@@ -1,0 +1,155 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    height: 84px;
+    border-bottom: 2px solid #c81523;
+}
+
+.logo {
+    padding-top: 18px;
+}
+
+.registerarea {
+    height: 522px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+
+.registerarea h3 {
+    line-height: 42px;
+    padding: 0 10px;
+    height: 42px;
+    border-bottom: 1px solid #ccc;
+    background-color: #ececec;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.login {
+    float: right;
+    font-size: 14px;
+}
+
+.login a {
+    color: red;
+}
+
+.reg-form {
+    width: 600px;
+    margin: 50px auto 0;
+}
+
+.reg-form li {
+    margin-bottom: 20px;
+}
+
+.reg-form label {
+    display: inline-block;
+    width: 88px;
+    text-align: center;
+}
+
+.reg-form .inp {
+    width: 242px;
+    height: 37px;
+    border: 1px solid #ccc;
+}
+
+#pd {
+    position: relative;
+}
+
+#regular {
+    position: absolute;
+    top: 37px;
+    left: 89px;
+    font-size: 10px;
+    color: rgb(164, 162, 162, .8);
+}
+
+.error {
+    color: red;
+}
+
+.success {
+    color: green;
+}
+
+.error_ico,
+.success_ico {
+    margin-top: -2px;
+    vertical-align: middle;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url(../images/error.png) no-repeat;
+}
+
+.success_ico {
+    background: url(../images/success.png) no-repeat;
+}
+
+.safe {
+    padding-left: 170px;
+}
+
+.safe em {
+    padding: 0 22px;
+    color: #fff;
+}
+
+.ruo {
+    background-color: red;
+}
+
+.zhong {
+    background-color: green;
+}
+
+.qiang {
+    background-color: orange;
+}
+
+.agree {
+    padding-top: 20px;
+    padding-left: 100px;
+}
+
+.agree input {
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.agree a {
+    color: blue;
+}
+
+.btn {
+    margin: 30px 0 0 70px;
+    width: 200px;
+    height: 34px;
+    background-color: red;
+    font-size: 14px;
+    color: #fff;
+    border: none;
+}
+
+.copyright {
+    line-height: 20px;
+}
+
+.mod_copyright {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.links {
+    margin-bottom: 15px;
+}
+
+.links a {
+    margin: 0 3px;
+}
